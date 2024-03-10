@@ -4,6 +4,15 @@
     --box-shadow: 5px 10px rgba (0,0,0.3);
 
 }
+.custom-navbar {
+    background-color: #3398ba;
+  }
+.img-fluid {
+    width: auto;
+    height: 30px;
+}
+
+}
 h1 {
     font-weight: bold;
 }
@@ -12,7 +21,7 @@ h1,h2, h3 {
     justify-content: center;
     color: var(--primery-color);
     font-size: 48px;
-    padding: 20px;
+    padding: 10px;
 
 }
 h3 {
@@ -26,7 +35,6 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-margin-top: 10px;
 
 }
 img.chemistry-lab {
