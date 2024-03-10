@@ -1,3 +1,31 @@
+:root {
+    --primery-color: red;
+    --secoundary-color: yellow;
+    --box-shadow: 5px 10px rgba (0,0,0.3);
+
+}
+h1 {
+    font-weight: bold;
+}
+h1,h2, h3 {
+    display: flex;
+    justify-content: center;
+    color: var(--primery-color);
+    font-size: 48px;
+    padding: 20px;
+
+}
+h3 {
+    font-family: Vazir !important;
+}
 body {
     background-color: aquamarine;
+}
+.contact-me {
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+
 }
