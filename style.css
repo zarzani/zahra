@@ -26,6 +26,16 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
+margin-top: 10px;
 
 }
+img.chemistry-lab {
+    width: 500px;
+    height: 200px;
+  }
+  
+  
+.experience {
+    margin-top: 20px;
+}
+
