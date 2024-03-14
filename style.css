@@ -46,4 +46,19 @@ img.chemistry-lab {
 .experience {
     margin-top: 20px;
 }
-
+.picture-container {
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .picture-container a {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .picture-container img {
+    display: block;
+    margin: 0 auto;
+    width: 350px;
+    height: 300px;
+  }
