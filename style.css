@@ -41,7 +41,10 @@ img.chemistry-lab {
     width: 500px;
     height: 200px;
   }
-  
+  span {
+    display: flex;
+    justify-content: center;
+  }
   
 .experience {
     margin-top: 20px;
