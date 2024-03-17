@@ -64,3 +64,9 @@ img.chemistry-lab {
     width: 350px;
     height: 300px;
   }
+  a:hover {
+    color: var(--primery-color);
+  }
+  
+.dropdown-item:hover {
+   color: var(--secoundary-color);}
