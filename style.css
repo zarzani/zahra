@@ -25,6 +25,7 @@ h1,h2, h3, h4 {
 }
 h3 {
     font-family: Vazir !important;
+    color: #000;
 }
 h4 {
   color: #000;
