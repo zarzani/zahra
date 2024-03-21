@@ -15,7 +15,7 @@
 h1 {
     font-weight: bold;
 }
-h1,h2, h3 {
+h1,h2, h3, h4 {
     display: flex;
     justify-content: center;
     color: var(--primery-color);
@@ -26,8 +26,12 @@ h1,h2, h3 {
 h3 {
     font-family: Vazir !important;
 }
+h4 {
+  color: #000;
+  box-shadow: var(--box-shadow);
+}
 body {
-    background-color: aquamarine;
+    background-color: rgb(127, 142, 255);
 }
 .contact-me {
     display: flex;
